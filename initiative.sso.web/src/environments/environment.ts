@@ -5,8 +5,8 @@
 export const environment = {
   production: false,
   
-  ida_tenant_id: "28e761fd-8979-4544-9986-cd3960e9fbb9",
-  ida_client_id: "85456ffb-fa22-40da-9ec1-ccd1ac06139f",
+  ida_tenant_id: "e2b528db-5ef5-4e5f-a10c-a2b45172edf9",
+  ida_client_id: "b38b6f81-3aac-4318-958f-0a2e38ca3c52",
   ida_redirect: "http://localhost:4200/",
   api_url: "https://localhost:44320"
 };
